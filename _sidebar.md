@@ -1,4 +1,4 @@
-* [Home](/)
-* [Panduan](/panduan/index.md)
-* [Worksheets](/worksheets/worksheet.md)
-* [Timeline](/timeline/timeline.md)
+- [Home](/)
+- [Panduan](/panduan/index.md)
+- [Timeline](/timeline/index.md)
+- [Worksheets](/worksheets/index.md)

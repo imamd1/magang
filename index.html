@@ -9,18 +9,28 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
-  <nav>
+  <!-- <nav>
     <a href="#/magang_1/magang_1.md">Magang 1</a>
     <a href="#/magang_2/magang_2.md">Magang 2</a>
-  </nav>
+  </nav> -->
   <div id="app"></div>
   <script>
     window.$docsify = {
+      name: "Magang 2023",
       loadSidebar: true,
-      loadNavbar: true
+      loadNavbar: false,
+      maxLevel: 3,
+      subMaxLevel: 3,
+      search: {
+          depth: 3,
+          noData: "No results!",
+          placeholder: "Search...",
+        },
     }
   </script>
   <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>

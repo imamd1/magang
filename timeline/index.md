@@ -1,8 +1,7 @@
-# Panduan Program Magang Tahun 2023
+# Timeline Kegiatan Magang Sistem Informasi 2023
 
-Merupakan website yang digunakan untuk memberikan informasi seputar magang prodi Sistem Informasi tahun 2023
+Program magang dilaksanakan selama satu semester penuh yang terdiri dari kegiatan pra-magang, kegiatan magang, penyusunan laporan, dan ujian. Pembagian waktu untuk masing-masing kegiatan adalah sebagai berikut:
 
-## Timeline Kegiatan
 
 | Syntax        | Description |
 | -----------   | ----------- |
